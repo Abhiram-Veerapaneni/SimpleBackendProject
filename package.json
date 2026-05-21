@@ -1,0 +1,20 @@
+{
+  "name": "introtobackendfreecodecamp",
+  "version": "1.0.0",
+  "description": "simple learning project",
+  "homepage": "https://github.com/Abhiram-Veerapaneni/IntroToBackendFreeCodeCamp#readme",
+  "bugs": {
+    "url": "https://github.com/Abhiram-Veerapaneni/IntroToBackendFreeCodeCamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhiram-Veerapaneni/IntroToBackendFreeCodeCamp.git"
+  },
+  "license": "ISC",
+  "author": "Abhi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\\"
+  }
+}
