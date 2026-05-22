@@ -1,25 +1,40 @@
-backend/
-├── src/
-│   ├── config/
-│   │   ├── constants.js
-│   │   └── database.js
-│   │
-│   ├── controllers/
-│   │   ├── post.controller.js
-│   │   └── user.controller.js
-│   │
-│   ├── models/
-│   │   ├── post.model.js
-│   │   └── user.model.js
-│   │
-│   ├── routes/
-│   │   ├── post.route.js
-│   │   └── user.route.js
-│   │
-│   ├── app.js
-│   └── index.js
-│
-├── .env
-├── .gitignore
-├── package.json
-└── package-lock.json
+```
+└── 📁SimpleBackendProject
+    └── 📁backend
+        └── 📁src
+            └── 📁config
+                ├── constants.js
+                ├── database.js
+            └── 📁controllers
+                ├── post.controller.js
+                ├── user.controller.js
+            └── 📁models
+                ├── post.model.js
+                ├── user.model.js
+            └── 📁routes
+                ├── post.route.js
+                ├── user.route.js
+            ├── app.js
+            ├── index.js
+        ├── .env
+        ├── package-lock.json
+        ├── package.json
+    └── 📁frontend
+        └── 📁src
+            └── 📁pages
+                ├── CreatePost.jsx
+                ├── Home.jsx
+                ├── Login.jsx
+                ├── Register.jsx
+                ├── UpdatePost.jsx
+                ├── ViewPosts.jsx
+            ├── App.jsx
+            ├── main.jsx
+        ├── .env
+        ├── index.html
+        ├── package-lock.json
+        ├── package.json
+        ├── vite.config.js
+    ├── .gitignore
+    └── README.md
+```
