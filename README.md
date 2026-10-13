@@ -5,7 +5,7 @@
             └── 📁config
                 ├── constants.js
                 ├── database.js
-            └── 📁controllers
+            └── 📁controller---
                 ├── post.controller.js
                 ├── user.controller.js
             └── 📁models
