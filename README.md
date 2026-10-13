@@ -5,7 +5,11 @@
             └── 📁config
                 ├── constants.js
                 ├── database.js
+<<<<<<< HEAD
             └── 📁controllers
+=======
+            └── 📁controller
+>>>>>>> 2da3a3b (Update README.md)
                 ├── post.controller.js
                 ├── user.controller.js
             └── 📁models
